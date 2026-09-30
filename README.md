@@ -3,8 +3,13 @@
 Workflow **n8n** qui surveille un réseau 5G RAN, détecte les anomalies, simule des scénarios *what-if* sur un **Digital Twin**, puis demande à un **agent IA** (Gemini) un diagnostic et une recommandation. Un ingénieur valide ou rejette cette recommandation depuis **Telegram**.
 
 > **Le code calcule, l'IA raisonne.** Tous les chiffres (KPI, anomalies, prédictions) sont calculés par du code déterministe. Le LLM ne produit aucune valeur numérique.
+## 🔄 Workflow
 
-![Workflow n8n](5G IA Network.png)
+The complete recruitment automation workflow is built in **n8n**:
+
+<p align="center">
+  <img src="5G IA Network.png" alt="HireSense AI n8n Workflow" width="100%">
+</p>
 
 ## Fonctionnement
 

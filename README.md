@@ -5,7 +5,7 @@ Workflow **n8n** qui surveille un réseau 5G RAN, détecte les anomalies, simule
 > **Le code calcule, l'IA raisonne.** Tous les chiffres (KPI, anomalies, prédictions) sont calculés par du code déterministe. Le LLM ne produit aucune valeur numérique.
 ## 🔄 Workflow
 
-The complete recruitment automation workflow is built in **n8n**:
+The complete automation workflow is built in **n8n**:
 
 <p align="center">
   <img src="5G IA Network.png" alt="HireSense AI n8n Workflow" width="100%">
